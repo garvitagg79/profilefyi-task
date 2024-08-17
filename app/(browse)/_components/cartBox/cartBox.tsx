@@ -82,9 +82,14 @@ export const CartBox: React.FC<CartBoxProps> = ({ total }) => {
           <div className="mt-2 mb-2 flex">
             <p>
               Try coupon{" "}
-              <span className="text-[#fe2421] font-bold">"PROFILEFYI"</span> OR{" "}
-              <span className="text-[#fe2421] font-bold">"GARVIT"</span> for 25%
-              discount
+              <span className="text-[#fe2421] font-bold">
+                &quot;PROFILEFYI&quot;
+              </span>{" "}
+              OR{" "}
+              <span className="text-[#fe2421] font-bold">
+                &quot;GARVIT&quot;
+              </span>{" "}
+              for 25% discount
             </p>
           </div>
 
