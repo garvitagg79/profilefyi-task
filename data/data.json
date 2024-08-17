@@ -1,0 +1,454 @@
+{
+"products": [
+    {  
+        "Brand":"Motorola G34 5G (Ocean Green, 128 GB)",
+        "Description":"8 GB RAM | 128 GB ROM16.51 cm (6.5 inch) HD+ Display50MP + 2MP | 16MP Front Camera5000 mAh BatterySnapdragon 695 5G ProcessorVegan Leather Design1 Year on Handset and 6 Months on Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/m/f/g34-5g-pb1v0002in-motorola-original-imagwu4rayqhgfjh.jpeg?q=70",
+        "Price":"\u20b911,999",
+        "Tag":"Mobile, Electronics",
+        "id":0
+        },
+        {    
+            "Brand":"Motorola G34 5G (Ice Blue, 128 GB)",
+        "Description":"8 GB RAM | 128 GB ROM16.51 cm (6.5 inch) HD+ Display50MP + 2MP | 16MP Front Camera5000 mAh BatterySnapdragon 695 5G Processor1 Year on Handset and 6 Months on Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/k/9/g34-5g-pb1v0001in-motorola-original-imagwu4r4xze9jwz.jpeg?q=70",
+        "Price":"\u20b911,999",
+        "Tag":"Mobile, Electronics",
+        "id":1
+            },
+            {
+            "Brand":"POCO C65 (Pastel Green, 128 GB)",
+        "Description":"4 GB RAM | 128 GB ROM | Expandable Upto 1 TB17.12 cm (6.74 inch) HD+ Display50MP + AI Lens + 2MP | 8MP Front Camera5000 mAh BatteryHelio G85 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for in the Box Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/1/p/-original-imagy2v5kfnq97xn.jpeg?q=70",
+        "Price":"\u20b96,799",
+        "Tag":"Mobile, Electronics",
+        "id":2
+            },
+            {
+            "Brand":"POCO M6 Pro 5G (Power Black, 128 GB)",
+        "Description":"6 GB RAM | 128 GB ROM | Expandable Upto 1 TB17.25 cm (6.79 inch) Full HD+ Display50MP + 2MP | 8MP Front Camera5000 mAh BatterySnapdragon 4 Gen 2 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/h/q/m6-pro-5g-mzb0eprin-poco-original-imags3e7vewsafst.jpeg?q=70",
+        "Price":"\u20b99,999",
+        "Tag":"Mobile, Electronics",
+        "id":3
+            },
+            {
+            "Brand":"Motorola G34 5G (Charcoal Black, 128 GB)",
+        "Description":"8 GB RAM | 128 GB ROM16.51 cm (6.5 inch) HD+ Display50MP + 2MP | 16MP Front Camera5000 mAh BatterySnapdragon 695 5G Processor1 Year on Handset and 6 Months on Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/m/o/y/g34-5g-pb1v0000in-motorola-original-imagwu4s8naevwyq.jpeg?q=70",
+        "Price":"\u20b911,999",
+        "Tag":"Mobile, Electronics",
+        "id":4
+            },
+            {
+            "Brand":"SAMSUNG Galaxy F14 5G (OMG Black, 128 GB)",
+        "Description":"6 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.76 cm (6.6 inch) Full HD+ Display50MP + 2MP | 13MP Front Camera6000 mAh BatteryExynos 1330, Octa Core Processor1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for In-Box Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/8/k/-original-imagtyxcgmgvtm7y.jpeg?q=70",
+        "Price":"\u20b912,490",
+        "Tag":"Mobile, Electronics",
+        "id":5
+            },
+            {
+            "Brand":"POCO C65 (Pastel Blue, 128 GB)",
+        "Description":"4 GB RAM | 128 GB ROM | Expandable Upto 1 TB17.12 cm (6.74 inch) HD+ Display50MP + AI Lens + 2MP | 8MP Front Camera5000 mAh BatteryHelio G85 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for in the Box Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/u/8/c65-mzb0g8nin-poco-original-imagw6j2kp5t5jek.jpeg?q=70",
+        "Price":"\u20b96,799",
+        "Tag":"Mobile, Electronics",
+        "id":6
+            },
+            {
+            "Brand":"SAMSUNG Galaxy F14 5G (GOAT Green, 128 GB)",
+        "Description":"6 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.76 cm (6.6 inch) Full HD+ Display50MP + 2MP | 13MP Front Camera6000 mAh BatteryExynos 1330, Octa Core Processor1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for In-Box Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/n/k/-original-imagtyxb86ddjhzh.jpeg?q=70",
+        "Price":"\u20b912,490",
+        "Tag":"Mobile, Electronics",
+        "id":7
+            },
+            {
+            "Brand":"Motorola g64 5G (Ice Lilac, 128 GB)",
+        "Description":"8 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display50MP (OIS) + 8MP | 16MP Front Camera6000 mAh BatteryDimensity 7025 Processor1 Year on Handset and 6 Months on Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/l/l/s/g64-5g-pb2e0003in-motorola-original-imagzzd3qda9rfzt.jpeg?q=70",
+        "Price":"\u20b913,999",
+        "Tag":"Mobile, Electronics",
+        "id":8
+            },
+            {
+            "Brand":"Motorola g64 5G (Mint Green, 128 GB)",
+        "Description":"8 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display50MP (OIS) + 8MP | 16MP Front Camera6000 mAh BatteryDimensity 7025 Processor1 Year on Handset and 6 Months on Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/l/x/h/g64-5g-pb2e0001in-motorola-original-imagzzd3ecgm2wp5.jpeg?q=70",
+        "Price":"\u20b913,999",
+        "Tag":"Mobile, Electronics",
+        "id":9
+            },
+            {
+            "Brand":"SAMSUNG Galaxy F14 5G (B.A.E. Purple, 128 GB)",
+        "Description":"6 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.76 cm (6.6 inch) Full HD+ Display50MP + 2MP | 13MP Front Camera6000 mAh BatteryExynos 1330, Octa Core Processor1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for In-Box Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/2/x/-original-imagtyxg7mdjhfqm.jpeg?q=70",
+        "Price":"\u20b912,490",
+        "Tag":"Mobile, Electronics",
+        "id":10
+            },
+            {
+            "Brand":"OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 256 GB)",
+        "Description":"8 GB RAM | 256 GB ROM17.07 cm (6.72 inch) Display108MP Rear Camera5000 mAh BatteryDomestic Warranty of 12 months on phone & 6 months on accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/w/z/u/-original-imagtxvtmxpagdpn.jpeg?q=70",
+        "Price":"\u20b918,718",
+        "Tag":"Mobile, Electronics",
+        "id":11
+            },
+            {
+            "Brand":"Motorola g04s (Satin Blue, 64 GB)",
+        "Description":"4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.76 cm (6.6 inch) HD+ Display50MP Rear Camera | 5MP Front Camera5000 mAh BatteryT606 Processor1 Year on Handset and 6 Months on Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/k/4/g04s-pb360002in-motorola-original-imahfc48wgbttfkk.jpeg?q=70",
+        "Price":"\u20b96,999",
+        "Tag":"Mobile, Electronics",
+        "id":12
+            },
+            {
+            "Brand":"OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 128 GB)",
+        "Description":"8 GB RAM | 128 GB ROM17.07 cm (6.72 inch) Display108MP Rear Camera5000 mAh BatteryDomestic Warranty of 12 months on phone & 6 months on accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/p/r/b/nord-ce-3-lite-5g-ce2099-oneplus-original-imagzj42cctpjjze.jpeg?q=70",
+        "Price":"\u20b916,940",
+        "Tag":"Mobile, Electronics",
+        "id":13
+            },
+            {
+            "Brand":"OnePlus Nord CE 3 Lite 5G (Pastel Lime, 256 GB)",
+        "Description":"8 GB RAM | 256 GB ROM17.07 cm (6.72 inch) Display108MP Rear Camera5000 mAh BatteryDomestic Warranty of 12 months on phone & 6 months on accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/a/o/z/nord-ce-3-lite-5g-ce2099-oneplus-original-imagzj3wqxzgquah.jpeg?q=70",
+        "Price":"\u20b918,884",
+        "Tag":"Mobile, Electronics",
+        "id":14
+            },
+            {
+            "Brand":"OnePlus Nord CE 3 Lite 5G (Pastel Lime, 128 GB)",
+        "Description":"8 GB RAM | 128 GB ROM17.07 cm (6.72 inch) Display108MP Rear Camera5000 mAh BatteryDomestic Warranty of 12 months on phone & 6 months on accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/l/7/k/-original-imagtxvur9yrxvru.jpeg?q=70",
+        "Price":"\u20b916,699",
+        "Tag":"Mobile, Electronics",
+        "id":15
+            },
+            {
+            "Brand":"realme 12x 5G (Twilight Purple, 128 GB)",
+        "Description":"8 GB RAM | 128 GB ROM | Expandable Upto 2 TB17.07 cm (6.72 inch) Full HD+ Display50MP + 2MP | 8MP Front Camera5000 mAh BatteryDimensity 6100+ Processor1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/i/w/-original-imagzk4mfg6zf2fv.jpeg?q=70",
+        "Price":"\u20b914,999",
+        "Tag":"Mobile, Electronics",
+        "id":16
+            },
+            {
+            "Brand":"vivo T3x 5G (Crimson Bliss, 128 GB)",
+        "Description":"6 GB RAM | 128 GB ROM | Expandable Upto 1 TB17.07 cm (6.72 inch) Full HD+ Display50MP + 2MP | 8MP Front Camera6000 mAh Battery6 Gen 1 Processor1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/w/3/4/-original-imahyytukhkky5ew.jpeg?q=70",
+        "Price":"\u20b914,999",
+        "Tag":"Mobile, Electronics",
+        "id":17
+            },
+            {
+            "Brand":"realme 12x 5G (Woodland Green, 128 GB)",
+        "Description":"6 GB RAM | 128 GB ROM | Expandable Upto 2 TB17.07 cm (6.72 inch) Full HD+ Display50MP + 2MP | 8MP Front Camera5000 mAh BatteryDimensity 6100+ Processor1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/e/h/12x-5g-rmx3998-realme-original-imagzjx75vd6uygj.jpeg?q=70",
+        "Price":"\u20b913,499",
+        "Tag":"Mobile, Electronics",
+        "id":18
+            },
+            {
+            "Brand":"realme 12x 5G (Twilight Purple, 128 GB)",
+        "Description":"6 GB RAM | 128 GB ROM | Expandable Upto 2 TB17.07 cm (6.72 inch) Full HD+ Display50MP + 2MP | 8MP Front Camera5000 mAh BatteryDimensity 6100+ Processor1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/i/w/-original-imagzk4mfg6zf2fv.jpeg?q=70",
+        "Price":"\u20b913,499",
+        "Tag":"Mobile, Electronics",
+        "id":19
+            },
+            {
+            "Brand":"vivo T3x 5G (Celestial Green, 128 GB)",
+        "Description":"8 GB RAM | 128 GB ROM | Expandable Upto 1 TB17.07 cm (6.72 inch) Full HD+ Display50MP + 2MP | 8MP Front Camera6000 mAh Battery6 Gen 1 Processor1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/g/j/t3x-5g-v2338-vivo-original-imahyyzaqhgwzfup.jpeg?q=70",
+        "Price":"\u20b916,499",
+        "Tag":"Mobile, Electronics",
+        "id":20
+            },
+            {
+            "Brand":"vivo T3x 5G (Celestial Green, 128 GB)",
+        "Description":"4 GB RAM | 128 GB ROM | Expandable Upto 1 TB17.07 cm (6.72 inch) Full HD+ Display50MP + 2MP | 8MP Front Camera6000 mAh Battery6 Gen 1 Processor1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/g/j/t3x-5g-v2338-vivo-original-imahyyzaqhgwzfup.jpeg?q=70",
+        "Price":"\u20b913,499",
+        "Tag":"Mobile, Electronics",
+        "id":21
+            },
+            {
+            "Brand":"POCO C65 (Matte Black, 128 GB)",
+        "Description":"4 GB RAM | 128 GB ROM | Expandable Upto 1 TB17.12 cm (6.74 inch) HD+ Display50MP + AI Lens + 2MP | 8MP Front Camera5000 mAh BatteryHelio G85 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for in the Box Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/i/k/k/c65-mzb0g8rin-poco-original-imagw6gyhhu7hur5.jpeg?q=70",
+        "Price":"\u20b96,799",
+        "Tag":"Mobile, Electronics",
+        "id":22
+            },
+            {
+            "Brand":"realme 12x 5G (Woodland Green, 128 GB)",
+        "Description":"8 GB RAM | 128 GB ROM | Expandable Upto 2 TB17.07 cm (6.72 inch) Full HD+ Display50MP + 2MP | 8MP Front Camera5000 mAh BatteryDimensity 6100+ Processor1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/e/h/12x-5g-rmx3998-realme-original-imagzjx75vd6uygj.jpeg?q=70",
+        "Price":"\u20b914,999",
+        "Tag":"Mobile, Electronics",
+        "id":23
+            },
+            {
+            "Brand":"Motorola g64 5G (Pearl Blue, 128 GB)",
+        "Description":"8 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display50MP (OIS) + 8MP | 16MP Front Camera6000 mAh BatteryDimensity 7025 Processor1 Year on Handset and 6 Months on Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/x/q/g64-5g-pb2e0002in-motorola-original-imagzzd4ewmjhyfx.jpeg?q=70",
+        "Price":"\u20b913,999",
+        "Tag":"Mobile, Electronics",
+        "id":24
+            },
+            {
+            "Brand":"vivo T3x 5G (Celestial Green, 128 GB)",
+        "Description":"6 GB RAM | 128 GB ROM | Expandable Upto 1 TB17.07 cm (6.72 inch) Full HD+ Display50MP + 2MP | 8MP Front Camera6000 mAh Battery6 Gen 1 Processor1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/g/j/t3x-5g-v2338-vivo-original-imahyyzaqhgwzfup.jpeg?q=70",
+        "Price":"\u20b914,999",
+        "Tag":"Mobile, Electronics",
+        "id":25
+            },
+            {
+            "Brand":"vivo T3x 5G (Crimson Bliss, 128 GB)",
+        "Description":"8 GB RAM | 128 GB ROM | Expandable Upto 1 TB17.07 cm (6.72 inch) Full HD+ Display50MP + 2MP | 8MP Front Camera6000 mAh Battery6 Gen 1 Processor1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/w/3/4/-original-imahyytukhkky5ew.jpeg?q=70",
+        "Price":"\u20b916,499",
+        "Tag":"Mobile, Electronics",
+        "id":26
+            },
+            {
+            "Brand":"vivo T3x 5G (Crimson Bliss, 128 GB)",
+        "Description":"4 GB RAM | 128 GB ROM | Expandable Upto 1 TB17.07 cm (6.72 inch) Full HD+ Display50MP + 2MP | 8MP Front Camera6000 mAh Battery6 Gen 1 Processor1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/w/3/4/-original-imahyytukhkky5ew.jpeg?q=70",
+        "Price":"\u20b913,499",
+        "Tag":"Mobile, Electronics",
+        "id":27
+            },
+            {
+            "Brand":"Motorola g04s (Concord Black, 64 GB)",
+        "Description":"4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.76 cm (6.6 inch) HD+ Display50MP Rear Camera | 5MP Front Camera5000 mAh BatteryT606 Processor1 Year on Handset and 6 Months on Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/o/y/g04s-pb360000in-motorola-original-imahfc48vgh8yvgj.jpeg?q=70",
+        "Price":"\u20b96,999",
+        "Tag":"Mobile, Electronics",
+        "id":28
+            },
+            {
+            "Brand":"Nokia 105 Single SIM, Keypad Mobile Phone with Wireless FM Radio",
+        "Description":"32 MB RAM | 32 MB ROM4.5 cm (1.77 inch) Display0MP | 0MP Front Camera1000 mAh BatterySC6531E Processor1 Year Replacement Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories Including Battery from the Date of Purchase",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/x/p/105-single-sim-keypad-mobile-phone-with-wireless-fm-radio-ta-original-imahfmf8wsdfzztq.jpeg?q=70",
+        "Price":"\u20b91,246",
+        "Tag":"Mobile, Electronics",
+        "id":29
+            },
+            {
+            "Brand":"SAMSUNG Galaxy F34 5G (Mystic Green, 128 GB)",
+        "Description":"6 GB RAM | 128 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display50MP (OIS) + 8MP + 2MP | 13MP Front Camera6000 mAh BatteryExynos 1280 Processor1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for In-Box Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/w/e/-original-imagtyw9fdfnsune.jpeg?q=70",
+        "Price":"\u20b912,999",
+        "Tag":"Mobile, Electronics",
+        "id":30
+            },
+            {
+            "Brand":"Nokia 105 Single SIM, Keypad Mobile Phone with Wireless FM Radio",
+        "Description":"32 MB RAM | 32 MB ROM4.5 cm (1.77 inch) Display0MP | 0MP Front Camera1000 mAh BatterySC6531E ProcessorNO WARRANTY",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/m/p/105-single-sim-keypad-mobile-phone-with-wireless-fm-radio-ta-original-imahy9fuzmwfhemj.jpeg?q=70",
+        "Price":"\u20b91,280",
+        "Tag":"Mobile, Electronics",
+        "id":31
+            },
+            {
+            "Brand":"REDMI 13C (Starfrost White, 128 GB)",
+        "Description":"4 GB RAM | 128 GB ROM | Expandable Upto 1 TB17.12 cm (6.74 inch) HD+ Display50MP Rear Camera | 8MP Front Camera5000 mAh BatteryHelio G85 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/f/a/-original-imahfk4xp4xcggyt.jpeg?q=70",
+        "Price":"\u20b97,699",
+        "Tag":"Mobile, Electronics",
+        "id":32
+            },
+            {
+            "Brand":"Nokia 105 Single SIM, Keypad Mobile Phone with Wireless FM Radio",
+        "Description":"32 MB RAM | 32 MB ROM4.5 cm (1.77 inch) Display0MP | 0MP Front Camera1000 mAh BatterySC6531E Processor1 Year Replacement Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories Including Battery from the Date of Purchase",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/e/b/6/105-single-sim-keypad-mobile-phone-with-wireless-fm-radio-ta-original-imahfyfzzgvxszd9.jpeg?q=70",
+        "Price":"\u20b91,387",
+        "Tag":"Mobile, Electronics",
+        "id":33
+            },
+            {
+            "Brand":"Motorola g64 5G (Pearl Blue, 256 GB)",
+        "Description":"12 GB RAM | 256 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display50MP (OIS) + 8MP | 16MP Front Camera6000 mAh BatteryDimensity 7025 Processor1 Year on Handset and 6 Months on Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/q/b/g64-5g-pb2e0006in-motorola-original-imagzzd4nmrgsevr.jpeg?q=70",
+        "Price":"\u20b915,999",
+        "Tag":"Mobile, Electronics",
+        "id":34
+            },
+            {
+            "Brand":"POCO C61 (Ethereal Blue, 64 GB)",
+        "Description":"4 GB RAM | 64 GB ROM | Expandable Upto 1 TB17.04 cm (6.71 inch) HD+ Display8MP Rear Camera | 5MP Front Camera5000 mAh BatteryHelio G36 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/f/l/-original-imagzcfj9vhf5dyq.jpeg?q=70",
+        "Price":"\u20b96,499",
+        "Tag":"Mobile, Electronics",
+        "id":35
+            },
+            {
+            "Brand":"REDMI 13C (Stardust Black, 128 GB)",
+        "Description":"6 GB RAM | 128 GB ROM | Expandable Upto 1 TB17.12 cm (6.74 inch) HD+ Display50MP Rear Camera | 8MP Front Camera5000 mAh BatteryHelio G85 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/e/a/-original-imahfk4xuk7ntphs.jpeg?q=70",
+        "Price":"\u20b98,499",
+        "Tag":"Mobile, Electronics",
+        "id":36
+            },
+            {
+            "Brand":"Motorola g64 5G (Mint Green, 256 GB)",
+        "Description":"12 GB RAM | 256 GB ROM | Expandable Upto 1 TB16.51 cm (6.5 inch) Full HD+ Display50MP (OIS) + 8MP | 16MP Front Camera6000 mAh BatteryDimensity 7025 Processor1 Year on Handset and 6 Months on Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/b/s/g64-5g-pb2e0005in-motorola-original-imagzzd5zagkg9gu.jpeg?q=70",
+        "Price":"\u20b915,999",
+        "Tag":"Mobile, Electronics",
+        "id":37
+            },
+            {
+            "Brand":"Motorola Edge 50 Pro 5G with 68W Charger (Luxe Lavender, 256 GB)",
+        "Description":"8 GB RAM | 256 GB ROM17.02 cm (6.7 inch) Display50MP + 13MP + 10MP | 50MP Front Camera4500 mAh Battery7 Gen 3 Mobile Platform Processor1 Year on Handset and 6 Months on Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/i/n/-original-imagzhspjy5g8nh3.jpeg?q=70",
+        "Price":"\u20b929,999",
+        "Tag":"Mobile, Electronics",
+        "id":38
+            },
+            {
+            "Brand":"Motorola g04s (Sunrise Orange, 64 GB)",
+        "Description":"4 GB RAM | 64 GB ROM | Expandable Upto 1 TB16.76 cm (6.6 inch) HD+ Display50MP Rear Camera | 5MP Front Camera5000 mAh BatteryT606 Processor1 Year on Handset and 6 Months on Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/l/c/g04s-pb360003in-motorola-original-imahfc49s8ehsdba.jpeg?q=70",
+        "Price":"\u20b96,999",
+        "Tag":"Mobile, Electronics",
+        "id":39
+            },
+            {
+            "Brand":"POCO C61 (Diamond Dust Black, 64 GB)",
+        "Description":"4 GB RAM | 64 GB ROM | Expandable Upto 1 TB17.04 cm (6.71 inch) HD+ Display8MP Rear Camera | 5MP Front Camera5000 mAh BatteryHelio G36 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/e/o/w/-original-imagzcfjjbheykct.jpeg?q=70",
+        "Price":"\u20b96,499",
+        "Tag":"Mobile, Electronics",
+        "id":40
+            },
+            {
+            "Brand":"realme 12x 5G (Twilight Purple, 128 GB)",
+        "Description":"4 GB RAM | 128 GB ROM | Expandable Upto 2 TB17.07 cm (6.72 inch) Full HD+ Display50MP + 2MP | 8MP Front Camera5000 mAh BatteryDimensity 6100+ Processor1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/i/w/-original-imagzk4mfg6zf2fv.jpeg?q=70",
+        "Price":"\u20b911,999",
+        "Tag":"Mobile, Electronics",
+        "id":41
+            },
+            {
+            "Brand":"REDMI 13C (Stardust Black, 128 GB)",
+        "Description":"4 GB RAM | 128 GB ROM | Expandable Upto 1 TB17.12 cm (6.74 inch) HD+ Display50MP Rear Camera | 8MP Front Camera5000 mAh BatteryHelio G85 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/e/a/-original-imahfk4xuk7ntphs.jpeg?q=70",
+        "Price":"\u20b97,699",
+        "Tag":"Mobile, Electronics",
+        "id":42
+            
+            },
+            {
+            "Brand":"Motorola G34 5G (Ocean Green, 128 GB)",
+        "Description":"4 GB RAM | 128 GB ROM16.51 cm (6.5 inch) HD+ Display50MP + 2MP | 16MP Front Camera5000 mAh BatterySnapdragon 695 5G ProcessorVegan Leather Design1 Year on Handset and 6 Months on Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/m/f/g34-5g-pb1v0002in-motorola-original-imagwu4rayqhgfjh.jpeg?q=70",
+        "Price":"\u20b910,999",
+        "Tag":"Mobile, Electronics",
+        "id":43
+            },
+            {
+            "Brand":"Motorola Edge 50 Pro 5G with 68W Charger (Black Beauty, 256 GB)",
+        "Description":"8 GB RAM | 256 GB ROM17.02 cm (6.7 inch) Display50MP + 13MP + 10MP | 50MP Front Camera4500 mAh Battery7 Gen 3 Mobile Platform Processor1 Year on Handset and 6 Months on Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/e/i/v/-original-imagzhspm6zvfaeh.jpeg?q=70",
+        "Price":"\u20b929,999",
+        "Tag":"Mobile, Electronics",
+        "id":44
+            },
+            {
+            "Brand":"realme 12x 5G (Woodland Green, 128 GB)",
+        "Description":"4 GB RAM | 128 GB ROM | Expandable Upto 2 TB17.07 cm (6.72 inch) Full HD+ Display50MP + 2MP | 8MP Front Camera5000 mAh BatteryDimensity 6100+ Processor1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/e/h/12x-5g-rmx3998-realme-original-imagzjx75vd6uygj.jpeg?q=70",
+        "Price":"\u20b911,999",
+        "Tag":"Mobile, Electronics",
+        "id":45
+            },
+            {
+            "Brand":"Motorola G34 5G (Charcoal Black, 128 GB)",
+        "Description":"4 GB RAM | 128 GB ROM16.51 cm (6.5 inch) HD+ Display50MP + 2MP | 16MP Front Camera5000 mAh BatterySnapdragon 695 5G Processor1 Year on Handset and 6 Months on Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/m/o/y/g34-5g-pb1v0000in-motorola-original-imagwu4s8naevwyq.jpeg?q=70",
+        "Price":"\u20b910,999",
+        "Tag":"Mobile, Electronics",
+        "id":46
+            },
+            {
+            "Brand":"POCO C65 (Pastel Green, 256 GB)",
+        "Description":"8 GB RAM | 256 GB ROM | Expandable Upto 1 TB17.12 cm (6.74 inch) HD+ Display50MP + AI Lens + 2MP | 8MP Front Camera5000 mAh BatteryHelio G85 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for in the Box Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/1/p/-original-imagy2v5kfnq97xn.jpeg?q=70",
+        "Price":"\u20b98,499",
+        "Tag":"Mobile, Electronics",
+        "id":47
+            },
+            {
+            "Brand":"REDMI 13C 5G (Startrail Green, 128 GB)",
+        "Description":"4 GB RAM | 128 GB ROM | Expandable Upto 1 TB17.12 cm (6.74 inch) HD+ Display50MP Rear Camera | 5MP Front Camera5000 mAh BatteryMediatek Dimensity 6100+ Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/v/h/-original-imahfkf6brqzpg76.jpeg?q=70",
+        "Price":"\u20b910,499",
+        "Tag":"Mobile, Electronics",
+        "id":48
+            },
+            {
+            "Brand":"REDMI 13C 5G (Starlight Black, 128 GB)",
+        "Description":"4 GB RAM | 128 GB ROM | Expandable Upto 1 TB17.12 cm (6.74 inch) HD+ Display50MP Rear Camera | 5MP Front Camera5000 mAh BatteryMediatek Dimensity 6100+ Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/q/5/-original-imahfkf6jcuhhzyb.jpeg?q=70",
+        "Price":"\u20b910,499",
+        "Tag":"Mobile, Electronics",
+        "id":49
+            },
+            {
+            "Brand":"POCO C61 (Diamond Dust Black, 128 GB)",
+        "Description":"6 GB RAM | 128 GB ROM | Expandable Upto 1 TB17.04 cm (6.71 inch) HD+ Display8MP Rear Camera | 5MP Front Camera5000 mAh BatteryHelio G36 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/e/o/w/-original-imagzcfjjbheykct.jpeg?q=70",
+        "Price":"\u20b96,999",
+        "Tag":"Mobile, Electronics",
+        "id":50
+            },
+            {
+            "Brand":"POCO C65 (Pastel Blue, 256 GB)",
+        "Description":"8 GB RAM | 256 GB ROM | Expandable Upto 1 TB17.12 cm (6.74 inch) HD+ Display50MP + AI Lens + 2MP | 8MP Front Camera5000 mAh BatteryHelio G85 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for in the Box Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/u/8/c65-mzb0g8nin-poco-original-imagw6j2kp5t5jek.jpeg?q=70",
+        "Price":"\u20b98,499",
+        "Tag":"Mobile, Electronics",
+        "id":51
+            },
+            {
+            "Brand":"REDMI 13C 5G (Startrail Silver, 128 GB)",
+        "Description":"4 GB RAM | 128 GB ROM | Expandable Upto 1 TB17.12 cm (6.74 inch) HD+ Display50MP Rear Camera | 5MP Front Camera5000 mAh BatteryMediatek Dimensity 6100+ Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/f/0/-original-imahfkf6uyxnvmcy.jpeg?q=70",
+        "Price":"\u20b910,499",
+        "Tag":"Mobile, Electronics",
+        "id":52
+            },
+            {
+            "Brand":"Nokia 130 Music Dual Sim, Music Player, Wireless FM Radio and Dedicated Music Buttons",
+        "Description":"4 MB RAM | 4 MB ROM6.1 cm (2.4 inch) Display0MP Front Camera1450 mAh Battery6261D Processor1 Year Replacement Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories Including Battery from the Date of Purchase",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/4/o/130-music-dual-sim-music-player-wireless-fm-radio-and-dedicated-original-imah2yzgnhqahyhy.jpeg?q=70",
+        "Price":"\u20b91,999",
+        "Tag":"Mobile, Electronics",
+        "id":53
+            },
+            {
+            "Brand":"POCO C65 (Matte Black, 128 GB)",
+        "Description":"6 GB RAM | 128 GB ROM | Expandable Upto 1 TB17.12 cm (6.74 inch) HD+ Display50MP + AI Lens + 2MP | 8MP Front Camera5000 mAh BatteryHelio G85 Processor1 Year Manufacturer Warranty for Phone and 6 Months Warranty for in the Box Accessories",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/i/k/k/c65-mzb0g8rin-poco-original-imagw6gyhhu7hur5.jpeg?q=70",
+        "Price":"\u20b97,499",
+        "Tag":"Mobile, Electronics",
+        "id":54
+            },
+            {
+            "Brand":"Nokia 130 Music Dual Sim, Music Player, Wireless FM Radio and Dedicated Music Buttons",
+        "Description":"4 MB RAM | 4 MB ROM6.1 cm (2.4 inch) Display0MP Front Camera1450 mAh Battery6261D Processor1 Year Replacement Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories Including Battery from the Date of Purchase",
+        "Image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/3/m/130-music-dual-sim-music-player-wireless-fm-radio-and-dedicated-original-imahfv7nfxupgmgt.jpeg?q=70",
+        "Price":"\u20b92,195",
+        "Tag":"Mobile, Electronics",
+        "id":55
+    
+            }
+    ]
+}
