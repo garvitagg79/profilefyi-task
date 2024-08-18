@@ -4,9 +4,8 @@ import { useEffect, useState } from "react";
 import { NavBar } from "../_components/navbar";
 import { CartProduct } from "../_components/cartProducts/cartProduct";
 import productsData from "@/data/data.json";
-import { useCart } from "../contexts/CartContext";
+import { useCartStore } from "../contexts/CartContext";
 import { CartBox } from "../_components/cartBox/cartBox";
-import { CartProvider } from "../contexts/CartContext";
 
 interface Product {
   id: number;
@@ -16,7 +15,7 @@ interface Product {
 }
 
 const CartContent = () => {
-  const { cartItems } = useCart();
+  const { cartItems } = useCartStore();
   const [cartProducts, setCartProducts] = useState<Product[]>([]);
   const [total, setTotal] = useState<number>(0);
 
@@ -60,12 +59,8 @@ const CartContent = () => {
       </div>
     </div>
   );
-}
+};
 
 export default function CartPage() {
-  return (
-    <CartProvider>
-      <CartContent />
-    </CartProvider>
-  );
+  return <CartContent />;
 }

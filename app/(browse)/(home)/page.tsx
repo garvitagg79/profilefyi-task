@@ -3,11 +3,11 @@
 import { NavBar } from "../_components/navbar";
 import { Product } from "../_components/products/product";
 import productsData from "@/data/data.json";
-import { CartProvider, useCart } from "../contexts/CartContext";
+import { useCartStore } from "../contexts/CartContext";
 import { FilterBox } from "../_components/filterBox/filterBox";
 
 const HomeContent = () => {
-  const { cartItems } = useCart();
+  const { cartItems } = useCartStore();
   const { products } = productsData;
 
   // Filter products that are in the cart
@@ -52,8 +52,8 @@ const HomeContent = () => {
 
 export default function Home() {
   return (
-    <CartProvider>
+    
       <HomeContent />
-    </CartProvider>
+   
   );
 }

@@ -1,11 +1,11 @@
 "use client";
 
-import { useCart } from "../../contexts/CartContext";
+import { useCartStore } from "../../contexts/CartContext";
 import { Button } from "@/components/ui/button";
 import { ShoppingCart } from "lucide-react";
 
 export const Cart = () => {
-  const { getCartQuantity } = useCart();
+  const { getCartQuantity } = useCartStore();
   const cartQuantity = getCartQuantity();
 
   return (

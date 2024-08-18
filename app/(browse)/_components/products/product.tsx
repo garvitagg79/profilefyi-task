@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
-import { useCart } from "../../contexts/CartContext";
+import { useCartStore } from "../../contexts/CartContext";
 
 interface ProductProps {
   product: {
@@ -18,7 +18,7 @@ interface ProductProps {
 export const Product: React.FC<ProductProps> = ({ product }) => {
   const [oldPrice, setOldPrice] = useState("");
   const [discountPercent, setDiscountPercent] = useState("");
-  const { cartItems, addToCart, removeFromCart } = useCart();
+  const { cartItems, addToCart, removeFromCart } = useCartStore();
 
   const cartItem = cartItems.find((item) => item.id === product.id);
   const cartQuantity = cartItem ? cartItem.quantity : 0;

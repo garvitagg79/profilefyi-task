@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { useCart } from "../../contexts/CartContext";
+import { useCartStore } from "../../contexts/CartContext";
 import { toast } from "sonner";
 import productsData from "@/data/data.json";
 import { useRouter } from "next/navigation";
@@ -14,7 +14,7 @@ interface FilterBoxProps {
 
 export const FilterBox: React.FC<FilterBoxProps> = ({ total }) => {
   const router = useRouter();
-  const { cartItems } = useCart();
+  const { cartItems } = useCartStore();
   const [cartTotal, setCartTotal] = useState<number>(total);
 
   useEffect(() => {

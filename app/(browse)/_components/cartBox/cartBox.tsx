@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { useCart } from "../../contexts/CartContext";
+import { useCartStore } from "../../contexts/CartContext";
 import { toast } from "sonner";
 
 interface CartBoxProps {
